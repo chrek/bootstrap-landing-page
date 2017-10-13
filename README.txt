@@ -9,36 +9,15 @@ http://mdbootstrap.com/
 This project uses the Bootstrap Grid System. The Grid system will let you create responsive websites adjustable to mobiles, tablets and desktops screens. A perfect example of responsive layout for the website and is expected to displayed perfectly on all kind of devices.
 
 
-Getting started:
-http://mdbootstrap.com/getting-started/
+This a single page (full page background) project using Bootstrap beta 4 framework 
 
-FAQ
-http://mdbootstrap.com/faq/
+It uses some interesting techniques like masks, shadows, Google Maps, animations and the font awesome
 
-Support:
-http://mdbootstrap.com/forums/forum/support/
+Navigation: Basic Navbar with fixed top attribute
 
-Tutorials:
+The fixed top attribute makes the navbar stuck to the top of the screen. It will be visible all the time, even when you scroll down your page.
+
+Adapted from:
 MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
-
-ChangeLog
-https://mdbootstrap.com/changelog/
-
-Templates:
-http://mdbootstrap.com/templates/
-
-Freebies
-https://mdbootstrap.com/freebies/
-
-License:
-http://mdbootstrap.com/license/
-
-Facebook: https://facebook.com/mdbootstrap
-Twitter: https://twitter.com/MDBootstrap
-Google+: https://plus.google.com/u/0/+Mdbootstrap/posts
-Dribbble: https://dribbble.com/mdbootstrap
 
 
-Contact:
-office@mdbootstrap.com
